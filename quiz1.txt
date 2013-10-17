@@ -1,2 +1,9 @@
 #Graded by: Joseph Clevenger
 #Evergreen Login: Clejos10
+
+from lab2 import n
+
+i = 0
+
+while ( i < n ) :
+  print "Hello World"
